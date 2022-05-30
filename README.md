@@ -1,4 +1,5 @@
 # congenial-fortnight
-Idk, github suggested this name
+Probably a repository to store DSA codes, exercise problems, and Leetcode solutions
 
-Lets get started
+1. DSA Codes - Python
+Currently, this is the only added folder
