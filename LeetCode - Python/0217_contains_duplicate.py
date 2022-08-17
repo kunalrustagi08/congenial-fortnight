@@ -1,6 +1,7 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         
+        # Hashmaps
         duplicate_dict = set()
         
         for i in nums:

@@ -1,6 +1,3 @@
-from typing import ChainMap
-
-
 def check_missing_alpha(my_str, alphas):
 
     for alpha in alphas:

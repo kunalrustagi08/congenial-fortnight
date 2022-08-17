@@ -29,7 +29,7 @@ class Solution:
         return [first, second]
         """
 
-        #Solution 2: concise and efficient
+        #Solution 2: concise and efficient using Hashmaps
         h = {}
         result = []
         for i, num in enumerate(nums):
